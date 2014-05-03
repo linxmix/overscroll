@@ -1,6 +1,7 @@
 {
   "name": "jquery-overscroll",
   "version": "1.7.7",
+  "main": "dist/jquery.overscroll",
   "dependencies": { },
   "devDependencies": {
     "grunt": "~0.4.1",
